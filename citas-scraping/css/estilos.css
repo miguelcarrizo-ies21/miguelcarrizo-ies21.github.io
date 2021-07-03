@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    margin: 50px 300px 10px 300px;
+}
+#cabeza {
+    background-color:crimson;
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+
+#pie {
+    background-color:crimson;
+    color:white;
+    text-align: center;
+    padding: 20px;
+}
+
+.cita {
+    background-color:gray;
+    padding: 10px 50px 10px 50px;
+    border: 1px solid black;
+    
+    
+}
+q {
+    font-size: 20px;
+}
+.categoria {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: firebrick;
+    font-size: 16px;
+}
+.autor {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkblue;
+    font-size: 16px;
+}
